@@ -22,7 +22,8 @@
     "mongoose": "^5.11.0",
     "mongoose-unique-validator": "^2.0.3",
     "morgan": "^1.10.0",
-    "node": "^15.2.1"
+    "node": "^15.2.1",
+    "y": "^0.3.2"
   },
   "devDependencies": {
     "eslint": "^7.15.0",
